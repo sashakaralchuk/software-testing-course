@@ -1,3 +1,1 @@
-# software-testing-course / курс по тестированию ПО
-
-Материалы лекций и практические задания
+Createed by Mangol Sergey from 9 group
