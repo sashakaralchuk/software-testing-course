@@ -34,7 +34,7 @@ team-9b https://cs-training-task.qulix.com/trainingtask4/
 team-2b https://cs-training-task.qulix.com/trainingtask3/  
 
 
-Распределение по вариантам для выполнения индивидуального задания см. в письме от 23.04.2019.
+Распределение по вариантам для выполнения индивидуального задания см. в письме от 22.05.2019.
 
 Вариант 1: https://cs-training-task.qulix.com/trainingtask1/  
 Вариант 2: https://cs-training-task.qulix.com/trainingtask2/  
